@@ -9,6 +9,10 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Xovee/uestc-course.svg)
 
 **更新**：大家考完试了吧？有时间记得贡献一些复习资料，支持仓库的可持续发展。分享仓库给小伙伴也非常欢迎哦！
+<details>
+<summary>分享模版</summary>
+  UESTC Course 是一个托管于 Github 的课程复习资料共享仓库，目前已经收录 60 余门课程，700 多个资源。欢迎大家来仓库获取自己需要的资源，如果大家手中有复习资料，也都可以贡献到仓库。https://github.com/Xovee/uestc-course/
+</details>
 
 ## 课程目录
 
@@ -21,10 +25,6 @@
 ## 贡献方法
 
 [**贡献指南**](./assets/贡献指南.md) 中介绍了各种为仓库做出贡献的方法，包括：新增资源、完善资源、提出改进意见和加入项目组等。
-
-## 资源完善计划（构建中）
-
-为了使已有资源的质量得到改善，**[资源完善计划](./assets/资源完善计划.md)** 中介绍了各种资源完善计划，例如：资源整理、资源格式转换等。
 
 ## 其余事项
 
@@ -40,6 +40,6 @@
 
 如果您有任何问题，请通过电子邮件 xovee at ieee.org (Xovee Xu) 与我联系。
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本仓库的资源默认采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可，有特别说明的除外。这意味着您可以对本仓库中所包含的资源进行复制、发行、修改和创作等，但不得用于商业性目的，在使用时须进行署名，且以相同或兼容的协议进行许可。
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本仓库的资源默认采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可，有特别说明的除外。这意味着您可以对本仓库中所包含的资源进行复制、发行、修改和创作等，但不得用于商业性目的，在使用时须进行署名，且以相同或兼容的协议进行许可。仓库的资源来自于用户和互联网，其正确性不做保证。
 
 <p align='center' style='margin-top: 1em;'><img src='./assets/img/university-motto.png' width=85%></p>
