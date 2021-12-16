@@ -9,10 +9,6 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Xovee/uestc-course.svg)
 
 **更新**：大家考完试了吧？有时间记得贡献一些复习资料，支持仓库的可持续发展。分享仓库给小伙伴也非常欢迎哦！
-<details>
-<summary>分享模版</summary>
-  UESTC Course 是一个托管于 Github 的课程复习资料共享仓库，目前已经收录 60 余门课程，700 多个资源。欢迎大家来仓库获取自己需要的资源，如果大家手中有复习资料，也都可以贡献到仓库。https://github.com/Xovee/uestc-course/
-</details>
 
 ## 课程目录
 
